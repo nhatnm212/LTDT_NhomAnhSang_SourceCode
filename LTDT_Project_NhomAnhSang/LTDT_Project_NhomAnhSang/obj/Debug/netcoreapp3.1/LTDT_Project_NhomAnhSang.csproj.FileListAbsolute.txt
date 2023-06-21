@@ -1,0 +1,104 @@
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.exe
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.deps.json
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.runtimeconfig.json
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.runtimeconfig.dev.json
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.dll
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.pdb
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.csproj.AssemblyReference.cache
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.Form_Dijkstra.resources
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.Form_Introduce.resources
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.Form_Prim.resources
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.Form1.resources
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.Properties.Resources.resources
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.csproj.GenerateResource.cache
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.AssemblyInfoInputs.cache
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.AssemblyInfo.cs
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.csproj.CoreCompileInputs.cache
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.dll
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.pdb
+D:\Desktop\LTDT_Project\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.genruntimeconfig.cache
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.exe
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.deps.json
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.runtimeconfig.json
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.runtimeconfig.dev.json
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.dll
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.pdb
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.csproj.AssemblyReference.cache
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.Form1.resources
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.Properties.Resources.resources
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.csproj.GenerateResource.cache
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.AssemblyInfoInputs.cache
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.AssemblyInfo.cs
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.csproj.CoreCompileInputs.cache
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.dll
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.pdb
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.genruntimeconfig.cache
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.FormDijkstra.resources
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.FormInfo.resources
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.FormPrim.resources
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.exe
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.deps.json
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.runtimeconfig.json
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.runtimeconfig.dev.json
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.dll
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.pdb
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.csproj.AssemblyReference.cache
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.Form1.resources
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.FormDijkstra.resources
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.FormInfo.resources
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.FormPrim.resources
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.Properties.Resources.resources
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.csproj.GenerateResource.cache
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.AssemblyInfoInputs.cache
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.AssemblyInfo.cs
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.csproj.CoreCompileInputs.cache
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.dll
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.pdb
+D:\Desktop\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.genruntimeconfig.cache
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.exe
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.deps.json
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.runtimeconfig.json
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.runtimeconfig.dev.json
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.dll
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.pdb
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.csproj.AssemblyReference.cache
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.Form1.resources
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.FormInfo.resources
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.FormPrim.resources
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.Properties.Resources.resources
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.csproj.GenerateResource.cache
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.AssemblyInfoInputs.cache
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.AssemblyInfo.cs
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.csproj.CoreCompileInputs.cache
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.dll
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.pdb
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.genruntimeconfig.cache
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.FormPrimFile.resources
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.FormDijkstraFile.resources
+D:\Desktop\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.FormDijkstra.resources
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.exe
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.deps.json
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.runtimeconfig.json
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.runtimeconfig.dev.json
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.dll
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\bin\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.pdb
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.csproj.AssemblyReference.cache
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.Form1.resources
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.FormDijkstra.resources
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.FormDijkstraFile.resources
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.FormInfo.resources
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.FormPrim.resources
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.FormPrimFile.resources
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.Properties.Resources.resources
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.csproj.GenerateResource.cache
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.GeneratedMSBuildEditorConfig.editorconfig
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.AssemblyInfoInputs.cache
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.AssemblyInfo.cs
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.csproj.CoreCompileInputs.cache
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.dll
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.pdb
+Q:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\Homework\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\LTDT_Project_NhomAnhSang\obj\Debug\netcoreapp3.1\LTDT_Project_NhomAnhSang.genruntimeconfig.cache
